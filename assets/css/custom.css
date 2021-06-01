@@ -1,0 +1,7 @@
+.headshot {
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    margin: 15px 0px;
+    object-fit: cover;
+}
