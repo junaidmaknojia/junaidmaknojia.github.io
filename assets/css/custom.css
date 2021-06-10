@@ -15,12 +15,17 @@
 
 .logo {
     width: 100px;
-    height: auto;
+    height: 100px;
 }
 
-#reactLogo, #cssLogo {
+#reactLogo {
     height: 100px;
-    width: auto;
+    width: 130px;
+}
+
+#cssLogo {
+    height: 100px;
+    width: 100px;
 }
 
 .logo, #reactLogo, #cssLogo {
